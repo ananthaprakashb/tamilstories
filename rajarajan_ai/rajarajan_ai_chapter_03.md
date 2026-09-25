@@ -3,12 +3,12 @@ id: ch003
 title: "பிழையின் பாடம்"
 chapter: 3
 chapter_title: "பிழையின் பாடம்"
-book: "இராஜ ராஜன்.ai"
-pov: "இராஜராஜன்"
+book: "இராசராசன்.ai"
+pov: "இராசராசன்"
 timeline: "1002-11-16 CE 4:00 PM"
 location: "Thanjai, Tamilnadu"
 characters:
-  - இராஜராஜன்
+  - இராசராசன்
   - உடையார்
   - குஞ்சர மல்லன்
   - விமலன்
@@ -24,7 +24,7 @@ scene: "Thanjai, Tamilnadu"
 artwork: "ch3.png"
 ---
 
-#  இராஜராஜன்.ai
+#  இராசராசன்.ai
 
 ## Chapter 3 — பிழையின் பாடம்
 

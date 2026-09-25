@@ -1,0 +1,29 @@
+{
+"schemaVersion": 1,
+"slug": "genesync-glitch",
+"title": "THE GENESYNC GLITCH",
+"subtitle": "If the code fails, the body breaks.",
+"author": "Anantha Prakash Nithiyanantham",
+"language": "en-US",
+"status": "serial",
+"genre": [
+"Science Fiction",
+"Techno-thriller",
+"Biopunk"
+],
+"audience": "Young Adult",
+"mood": "future",
+"artwork": "GeneSyncGlitch.png",
+"description": "In a near-future where health is an automated subscription, nineteen-year-old Rowan discovers a lethal bug in her AI-driven CRISPR patch. Stripped of her digital safety net, she must dive into the forgotten science of human biology, organic nutrition, and epigenetics to manually hack her failing liver before the algorithmic glitch becomes fatal.",
+"themes": [
+"AI dependence",
+"human biology",
+"epigenetics",
+"bio-hacking",
+"technological fragility"
+],
+"reader": {
+"immersive": true,
+"canonicalFormat": "markdown"
+}
+}
