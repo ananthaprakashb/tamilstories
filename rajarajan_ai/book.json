@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "slug": "இராஜ ராஜன்.ai",
+  "title": "இராஜ ராஜன்.ai",
+  "subtitle": "தஞ்சைப் பெருவுடையார் ஆலயமும் தரவு அறிவியலின் தொடக்கமும்",
+  "author": "Anantha Prakash Nithiyanantham",
+  "language": "ta-IN",
+  "status": "serial",
+  "genre": [
+    "Historical Fiction",
+    "Edutainment"
+  ],
+  "audience": "Young Adult / Adult",
+  "mood": "Enlightened and Pragmatic",
+  "artwork": "rajarajan.png",
+  "description": "ஆயிரம் ஆண்டுகளுக்கு முன்பே நிகழ்ந்த ஒரு தரவுப் புரட்சி.",
+  "themes": [
+    "human judgment",
+    "problem discovery",
+    "autonomy",
+    "responsibility"
+  ],
+  "reader": {
+    "immersive": true,
+    "canonicalFormat": "markdown"
+  }
+}
