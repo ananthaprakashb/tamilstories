@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "slug": "thirukkural-stories",
+  "title": "ஆளப்பனார் நான் உங்கள் அடிமை",
+  "subtitle": "ரொம்ப... நல்லவன்!",
+  "author": "Anantha Prakash Nithiyanantham",
+  "language": "ta-IN",
+  "status": "serial",
+  "genre": [
+    "Contemporary Fiction",
+    "Moral & Philosophical",
+    "Edutainment"
+  ],
+  "audience": "Young Adult / Adult",
+  "mood": "Reflective and Grounded",
+  "artwork": "rombanallavan.jpg",
+  "description": "சிறுகதைத் தொகுப்பு.",
+  "themes": [
+    "moral integrity",
+    "parental modeling",
+    "ethical decision making",
+    "self-reflection",
+    "purity of mind"
+  ],
+  "reader": {
+    "immersive": true,
+    "canonicalFormat": "markdown"
+  }
+}
