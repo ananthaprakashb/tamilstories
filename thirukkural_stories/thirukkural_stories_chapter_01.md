@@ -1,8 +1,8 @@
 ---
 id: ch001
-title: "முதல் கல்"
+title: "மனத்துக்கண்"
 chapter: 1
-chapter_title: "முதல் கல்"
+chapter_title: "மனத்துக்கண்"
 book: "திருக்குறள் கதைகள்"
 pov: "Family"
 timeline: "2015-11-15 8:12 AM"
@@ -19,7 +19,7 @@ status: "draft"
 subtitle: "Farmers Market · 9:12 AM"
 mood: "Reflective"
 scene: "Farmers Market, San ramon"
-artwork: "ch1.png"
+artwork: "ch1.jpg"
 ---
 
 #  திருக்குறள் கதைகள்
