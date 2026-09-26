@@ -12,6 +12,7 @@ Canonical story source for the ShareCapsule `/tamilbooks/` reader.
 
 ## Current chapters
 
-1. **மனத்துக்கண்**
+1. **அவ்வ துறைவ தறிவு**
+2. **மனத்துக்கண்**
 
 Future chapters should continue using Markdown and the same front-matter contract.
