@@ -1,7 +1,7 @@
 ---
 id: ch002
 title: "அவ்வ துறைவ தறிவு"
-chapter: 1
+chapter: 2
 chapter_title: "அவ்வ துறைவ தறிவு"
 book: "திருக்குறள் கதைகள்"
 pov: "Family"
