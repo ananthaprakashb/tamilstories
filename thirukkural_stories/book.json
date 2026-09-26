@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "slug": "thirukkural-stories",
+  "title": "திருக்குறள் கதைகள்: நவீன வாழ்வியல் பார்வைகள்",
+  "subtitle": "அன்றாட வாழ்வில் குறள் காட்டும் தார்மீக நெறிகள்",
+  "author": "Anantha Prakash Nithiyanantham",
+  "language": "ta-IN",
+  "status": "serial",
+  "genre": [
+    "Contemporary Fiction",
+    "Moral & Philosophical",
+    "Edutainment"
+  ],
+  "audience": "Young Adult / Adult",
+  "mood": "Reflective and Grounded",
+  "artwork": "thirukkural-stories.jpg",
+  "description": "உழவர் சந்தை முதல் உலகளாவிய வாழ்க்கை வரை அன்றாட எளிய தருணங்களில் திருக்குறளின் அறநெறிகள் மனித மனசாட்சியையும் சுயமரியாதையையும் மீட்டெடுக்கும் சிறுகதைத் தொகுப்பு.",
+  "themes": [
+    "moral integrity",
+    "parental modeling",
+    "ethical decision making",
+    "self-reflection",
+    "purity of mind"
+  ],
+  "reader": {
+    "immersive": true,
+    "canonicalFormat": "markdown"
+  }
+}
