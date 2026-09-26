@@ -1,7 +1,7 @@
 ---
 id: ch004
 title: "எதிரி வெளிய இல்ல... உள்ள!"
-chapter: 1
+chapter: 4
 chapter_title: "எதிரி வெளிய இல்ல... உள்ள!"
 book: "திருக்குறள் கதைகள்"
 pov: "Family"

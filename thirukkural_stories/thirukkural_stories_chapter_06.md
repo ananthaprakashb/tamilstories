@@ -1,7 +1,7 @@
 ---
 id: ch006
 title: "ஆற்று பவர்க்கும் அரண்"
-chapter: 1
+chapter: 6
 chapter_title: "ஆற்று பவர்க்கும் அரண்"
 book: "திருக்குறள் கதைகள்"
 pov: "Family"
