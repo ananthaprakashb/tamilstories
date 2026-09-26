@@ -1,24 +1,23 @@
 ---
 id: ch001
-title: "மனத்துக்கண்"
+title: "ரொம்ப நல்லவன்டா நீ"
 chapter: 1
-chapter_title: "மனத்துக்கண்"
-book: "திருக்குறள் கதைகள்"
-pov: "Family"
+chapter_title: "ரொம்ப நல்லவன்டா நீ"
+book: "ஆளப்பனார் நான் உங்கள் அடிமை"
+pov: "Computer"
 timeline: "2015-11-15 8:12 AM"
 location: "San ramon, California"
 characters:
-  - Father
-  - Son
+  - Computer
 themes:
   - trust
   - moral
   - discipline
   - genuine
 status: "draft"
-subtitle: "Farmers Market · 9:12 AM"
+subtitle: "Home · 9:12 AM"
 mood: "Reflective"
-scene: "Farmers Market, San ramon"
+scene: "Home, San ramon"
 artwork: "ch1.jpg"
 ---
 
