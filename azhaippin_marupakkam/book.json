@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "slug": "impact of call",
+  "title": "அழைப்பின் மறுபக்கம்",
+  "subtitle": "என் பெயரில் ஒரு குற்றம்",
+  "author": "Anantha Prakash Nithiyanantham",
+  "language": "ta-IN",
+  "status": "serial",
+  "genre": [
+    "Contemporary Fiction",
+    "Moral & Philosophical",
+    "Edutainment"
+  ],
+  "audience": "Young Adult / Adult",
+  "mood": "Reflective and Grounded",
+  "artwork": "azhaippinmarupakkam.jpg",
+  "description": "Crime story.",
+  "themes": [
+    "Suspence",
+    "Thriller",
+    "Social awareness",
+  ],
+  "reader": {
+    "immersive": true,
+    "canonicalFormat": "markdown"
+  }
+}
