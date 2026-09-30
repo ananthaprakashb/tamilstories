@@ -1,11 +1,18 @@
 {
   "schemaVersion": 1,
-  "slug": "impact of call",
+  "slug": "azhaippin-marupakkam",
   "title": "அழைப்பின் மறுபக்கம்",
   "subtitle": "என் பெயரில் ஒரு குற்றம்",
   "author": "Anantha Prakash Nithiyanantham",
   "language": "ta-IN",
   "status": "serial",
+  "artwork": "azhaippinmarupakkam.png",
+  "description": "ஒரு போலி இந்திய தூதரக அழைப்பிலிருந்து தொடங்கும் அடையாளத் திருட்டும் சைபர் மோசடியும் கலந்த த்ரில்லர்.",
+  "themes": [
+    "Suspense",
+    "Thriller",
+    "Social awareness"
+  ],
   "genre": [
     "Contemporary Fiction",
     "Moral & Philosophical",
@@ -13,13 +20,6 @@
   ],
   "audience": "Young Adult / Adult",
   "mood": "Reflective and Grounded",
-  "artwork": "azhaippinmarupakkam.png",
-  "description": "Crime story.",
-  "themes": [
-    "Suspence",
-    "Thriller",
-    "Social awareness",
-  ],
   "reader": {
     "immersive": true,
     "canonicalFormat": "markdown"

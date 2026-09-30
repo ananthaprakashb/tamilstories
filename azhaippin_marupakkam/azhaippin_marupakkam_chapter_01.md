@@ -17,7 +17,7 @@ status: "draft"
 subtitle: "Home · 2:00 AM"
 mood: "Reflective"
 scene: "Home, San Francisco"
-artwork: "ch1.jpg"
+artwork: "ch1.png"
 ---
 # நாவல்: **அழைப்பின் மறுபக்கம்**
 
