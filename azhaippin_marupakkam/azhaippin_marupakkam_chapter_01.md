@@ -1,3 +1,24 @@
+---
+id: ch001
+title: "என் பெயரில் ஒரு குற்றம்"
+chapter: 1
+chapter_title: "என் பெயரில் ஒரு குற்றம்"
+book: "அழைப்பின் மறுபக்கம்"
+pov: "Aravind Narayanan"
+timeline: "2015-11-15 8:12 AM"
+location: "San ramon, California"
+characters:
+  - Computer
+themes:
+  - Suspence
+  - Thriller
+  - Forgery
+status: "draft"
+subtitle: "Home · 2:00 AM"
+mood: "Reflective"
+scene: "Home, San Francisco"
+artwork: "ch1.jpg"
+---
 # நாவல்: **அழைப்பின் மறுபக்கம்**
 
 ## அத்தியாயம் 1 — என் பெயரில் ஒரு குற்றம்
